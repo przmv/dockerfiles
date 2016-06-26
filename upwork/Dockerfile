@@ -16,7 +16,7 @@ FROM debian:jessie
 
 MAINTAINER Petr Shevtsov <petr.shevtsov@gmail.com>
 
-ENV VERSION v4_1_314_0_0bo6g5kfbj07y2x4
+ENV VERSION v4_1_321_0_jyypcrocn10is1qc
 
 ADD http://updates.team.odesk.com/binaries/${VERSION}/upwork_amd64.deb /src/upwork_amd64.deb
 
